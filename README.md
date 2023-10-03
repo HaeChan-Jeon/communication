@@ -2,6 +2,10 @@
 
 The "communication" repository is a collection of writings composed to cultivate communication skills.
 
+<p align="center">
+ <img src = "(https://github.com/HaeChan-Jeon/communication/assets/146603024/33187da8-e0f1-45ad-8597-8188fb8f19d6", height="500x", width="500px">
+</p>
+
 ***
 
 ## **커뮤니케이션** (communication)
