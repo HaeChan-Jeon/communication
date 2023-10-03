@@ -1,6 +1,6 @@
 # Soft Skills
 
-"communication" repository is a collection of writings composed to cultivate communication skills.
+The "communication" repository is a collection of writings composed to cultivate communication skills.
 
 ***
 
